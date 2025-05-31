@@ -9,5 +9,5 @@
   * [Custom Pages](taintless/pause-menu/custom-pages.md)
   * [Player Details](taintless/pause-menu/player-details.md)
   * [Social Online Time](taintless/pause-menu/social-online-time.md)
-* [Vehicle Shop](taintless/vehicle-shop.md)
 * [Multicharacter](taintless/multicharacter.md)
+* [Vehicle Shop](taintless/vehicle-shop.md)

@@ -204,7 +204,7 @@ Complete your server with **Taintless series scripts** that share identical desi
 
 ## 📝 License & Terms
 
-This script is protected by Tebex's escrow system and comes with full support. Please review our [Terms of Service](https://www.tebex.io/legal/terms) and [Privacy Policy](https://www.tebex.io/legal/privacy) before purchase.
+This script is protected by Tebex's escrow system and comes with full support. Please review our [Terms of Service](https://checkout.tebex.io/terms) and [Privacy Policy](https://checkout.tebex.io/privacy) before purchase.
 
 {% hint style="info" %}
 **Copyright © UZ Scripts 2025. All rights reserved.**
