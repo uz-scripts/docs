@@ -1,0 +1,42 @@
+import Image from "next/image";
+
+### Social/Online/Time
+
+<br/>
+
+<Image
+  src="https://uzstore.gitbook.io/~gitbook/image?url=https%3A%2F%2F2351540620-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FcRCyehul5IZdMTnshKMH%252Fuploads%252FQHWyTKMByFZ4ooxgogs5%252FGroup%252037792.png%3Falt%3Dmedia%26token%3D576db47e-23ac-4a82-858b-411303921659&width=768&dpr=4&quality=100&sign=a678ec05&sv=2" 
+  height={1080} 
+  width={1920} 
+  quality={100}
+  alt="FiveM Pause Menu Script"
+/>
+
+Follow the steps below to customize social/online/time.
+
+#### 1. Configuring Social Media Links and Server Settings
+
+In `Customize.lua`, you can also configure social media links and server settings:
+
+```lua
+Use24HourFormat = false,  -- true: 24-hour format, false: 12-hour format
+ServerMaxOnline = 1200,   -- Maximum number of players that can be online
+
+Socials = {  -- min: 0 - max: 3
+    { icon = 'youtube.svg', link = 'https://www.youtube.com/@UZStoree' },
+    { icon = 'discord.svg', link = 'https://discord.gg/uzstore' },
+    { icon = 'store.svg', link = 'https://uzstore.tebex.io/' }
+}
+```
+
+In the code snippet above:
+
+* **Use24HourFormat**: Specifies whether to use a 24-hour or 12-hour clock format.
+* **ServerMaxOnline**: Defines the maximum number of players that can be online at the same time.
+* **Socials**: Allows you to add social media icons and links (minimum of 0 and maximum of 3).
+  * **icon**: File path of an icon (resources/images/Socials).
+  * **link**: The link you want to be opened.
+
+#### 2. Test Your Customizations
+
+After making all the adjustments, verify in-game that the information is displayed correctly. :heart:
