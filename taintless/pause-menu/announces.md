@@ -1,6 +1,6 @@
 # Announces
 
-![FiveM Pause Menu Script](https://uzstore.gitbook.io/~gitbook/image?url=https%3A%2F%2F2351540620-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FcRCyehul5IZdMTnshKMH%252Fuploads%252F0sQQV8xSVxMUAHgwmrJK%252FPROJECT%2520ANNOUNCES.png%3Falt%3Dmedia%26token%3Db4ae6f08-754f-497f-9ab0-ef73d7a36296&width=768&dpr=1&quality=100&sign=4fdeeb7f&sv=2)
+![FiveM Pause Menu Script](https://uzstore.gitbook.io/~gitbook/image?url=https%3A%2F%2F2351540620-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FcRCyehul5IZdMTnshKMH%252Fuploads%252F0sQQV8xSVxMUAHgwmrJK%252FPROJECT%2520ANNOUNCES.png%3Falt%3Dmedia%26token%3Db4ae6f08-754f-497f-9ab0-ef73d7a36296\&width=768\&dpr=1\&quality=100\&sign=4fdeeb7f\&sv=2)
 
 ## Announces Overview
 
@@ -27,12 +27,12 @@ The announcements are defined in the `Announces.json` file. Each announcement in
 
 #### Fields Explanation
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `text` | String | The main content of the announcement |
-| `date` | String | Date when the announcement was created (format: DD.MM.YYYY) |
-| `header` | String | Title/header of the announcement |
-| `photo` | String | Optional image URL for the announcement |
+| Field    | Type   | Description                                                 |
+| -------- | ------ | ----------------------------------------------------------- |
+| `text`   | String | The main content of the announcement                        |
+| `date`   | String | Date when the announcement was created (format: DD.MM.YYYY) |
+| `header` | String | Title/header of the announcement                            |
+| `photo`  | String | Optional image URL for the announcement                     |
 
 {% hint style="warning" %}
 **Note:** If you don't want to include an image, leave the `photo` field as an empty string `""`.
@@ -51,6 +51,7 @@ To add a new announce using the in-game command:
 ```
 
 **Example:**
+
 ```
 /addAnnounce "Weekend Event" "Join us for an exciting new event happening this weekend. There will be exclusive rewards!"
 ```
@@ -88,12 +89,12 @@ Command = {
 
 #### Command Configuration Options
 
-| Option | Description |
-|--------|-------------|
-| `Permission` | Authorization level required to use the command (e.g., `admin`, `moderator`) |
-| `Command` | The actual command name (default: `addAnnounce`) |
-| `Text` | Description text for the command |
-| `Description` | Command syntax helper with parameter descriptions |
+| Option        | Description                                                                  |
+| ------------- | ---------------------------------------------------------------------------- |
+| `Permission`  | Authorization level required to use the command (e.g., `admin`, `moderator`) |
+| `Command`     | The actual command name (default: `addAnnounce`)                             |
+| `Text`        | Description text for the command                                             |
+| `Description` | Command syntax helper with parameter descriptions                            |
 
 ### 4. Adding Multiple Announces
 
@@ -126,14 +127,10 @@ You can add multiple announcements by creating additional objects in the JSON ar
 **Pro Tip:** You can update announcements instantly using in-game commands or by editing the `Announces.json` file directly!
 {% endhint %}
 
----
+***
 
 ### Related Pages
 
-{% content-ref url="configuration.md" %}
-[configuration.md](configuration.md)
+{% content-ref url="custom-pages.md" %}
+[custom-pages.md](custom-pages.md)
 {% endcontent-ref %}
-
-{% content-ref url="customization.md" %}
-[customization.md](customization.md)
-{% endcontent-ref %} 

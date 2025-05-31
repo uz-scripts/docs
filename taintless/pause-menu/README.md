@@ -178,7 +178,7 @@ Complete your server with **Taintless series scripts** that share identical desi
 
 | Script             | Description                         | Link                                                         |
 | ------------------ | ----------------------------------- | ------------------------------------------------------------ |
-| Vehicle Shop       | Advanced vehicle shop system        | [View Details](https://uzscripts.com/scripts/vehicle-shop)   |
+| **Vehicle Shop**   | Advanced vehicle shop system        | [View Details](https://uzscripts.com/scripts/vehicle-shop)   |
 | **Multicharacter** | Advanced character selection system | [View Details](https://uzscripts.com/scripts/multicharacter) |
 | **Spawn Selector** | Customizable spawn selection menu   | [View Details](https://uzscripts.com/scripts/spawn-selector) |
 
