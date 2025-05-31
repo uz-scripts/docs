@@ -12,50 +12,105 @@
 
 ---
 
-## 🌟 Overview
+## 🌟 What is Taintless Pause Menu?
 
-**Taintless Pause Menu** brings a fresh, stylish, and highly functional pause menu to your FiveM server. Developed by UZ Scripts, this script offers extensive customization and an intuitive interface that will enhance your players' experience. Whether you're aiming to provide immersion, engagement, or helpful information, Taintless Pause Menu delivers.
+**Taintless Pause Menu** is a premium, highly customizable FiveM script that transforms the default pause menu into an immersive, feature-rich interface. Developed by UZ Scripts, it provides server owners with unparalleled control over player information display, social connectivity, and server branding.
 
-### Framework Compatibility
+### 🏆 Why Choose Taintless?
+
+- **🚀 Performance Optimized**: Only 0.00-0.01ms resource usage
+- **🎨 Fully Customizable**: Complete control over appearance and functionality  
+- **📱 Modern Design**: Clean, responsive UI that works on all screen sizes
+- **🔧 Easy Setup**: Quick installation with extensive documentation
+- **💬 Premium Support**: 24/7 support from experienced developers
+- **🔄 Regular Updates**: Continuous improvements and new features
+
+---
+
+## 🛠️ Framework Compatibility
 
 {% tabs %}
 {% tab title="QBCore" %}
-✅ Fully Compatible
+✅ **Fully Compatible**
+- All QBCore player data supported
+- Seamless integration with QB framework
+- Tested with latest QBCore versions
 {% endtab %}
 
 {% tab title="QBox" %}
-✅ Fully Compatible
+✅ **Fully Compatible**  
+- Complete QBox framework support
+- Native integration with QBox systems
+- Optimized for QBox performance
 {% endtab %}
 
 {% tab title="ESX" %}
-✅ Fully Compatible
+✅ **Fully Compatible**
+- Full ESX Legacy support
+- Compatible with ESX player data structure
+- Works with all ESX versions
+{% endtab %}
+
+{% tab title="Custom Frameworks" %}
+⚙️ **Adaptable**
+- Can be adapted for custom frameworks
+- Flexible player data system
+- Contact support for custom integration
 {% endtab %}
 {% endtabs %}
 
 ---
 
-## ✨ Key Features
+## ✨ Core Features
 
-### 🚀 Immersive 3D Experience
-Players can interact with their character in 3D, with full control to zoom in, zoom out, and rotate, adding an immersive touch that brings players closer to the action.
+### 🎮 3D Character Interaction
+Transform player engagement with immersive 3D character viewing:
+- **360° Rotation**: Full character rotation control
+- **Zoom Controls**: Smooth zoom in/out functionality  
+- **Dynamic Lighting**: Professional character presentation
+- **Responsive Controls**: Intuitive mouse and keyboard controls
 
-### 🎨 Fully Customizable
-Tailor player information to your needs. Remove, duplicate, or adjust details—you have complete control. The only limit is your imagination!
+### 📊 Advanced Player Information
+Display comprehensive player data with complete customization:
+- **Dynamic Data Display**: Real-time player statistics
+- **Custom Fields**: Add unlimited custom information
+- **Framework Integration**: Automatic data fetching from your framework
+- **Icon Support**: Custom icons for each data type
 
-### 🌐 Stay Connected
-- Add social media links (up to 3)
-- Show the number of online players
-- Choose between 12-hour or 24-hour formats for time display
-- Keep your players connected and informed
+### 🌐 Social Media Integration
+Keep your community connected:
+- **3 Social Links**: Discord, YouTube, Website, etc.
+- **Custom Icons**: Professional social media icons included
+- **Click-to-Open**: Direct browser integration
+- **Branding Support**: Maintain consistent server branding
 
-### 📄 Unique and Informative
-Add custom pages for rules, announcements, or anything you need. Fully adjustable colors, images, and content allow you to make each page unique and informative.
+### ⏰ Time & Server Information
+Real-time server statistics:
+- **Live Player Count**: Current/Maximum players display
+- **Time Formats**: 12-hour or 24-hour time display
+- **Server Capacity**: Visual server load indication
+- **Auto-Updates**: Real-time information refresh
 
-### 📢 Instant Updates
-Instantly update players with announcements using in-game commands or by editing the `Announces.json` file. Keeping everyone informed has never been easier.
+### 📢 Announcement System
+Instant communication with your playerbase:
+- **In-Game Commands**: Add announcements without restart
+- **Rich Content**: Text, images, dates, and headers
+- **Auto-Updates**: Instant display without server reload
+- **Persistent Storage**: JSON-based announcement storage
 
-### ⚡ Efficient Performance
-This script runs at **0.00 - 0.01ms**, ensuring excellent performance without affecting server load.
+### 🎨 Custom Pages System
+Create unlimited interactive features:
+- **Custom Buttons**: Link to any server feature
+- **Visual Customization**: Custom colors and backgrounds
+- **Event Integration**: Trigger any client-side event
+- **Unlimited Pages**: Add as many features as needed
+
+### ⚡ Performance Excellence
+Built for production servers:
+- **Optimized Code**: Professional development standards
+- **Memory Efficient**: Minimal resource usage
+- **Scalable Design**: Works with high-population servers
+- **Error Handling**: Robust error prevention and logging
 
 ---
 
