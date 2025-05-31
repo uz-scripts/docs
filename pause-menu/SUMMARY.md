@@ -1,13 +1,20 @@
-# Table of Contents
+# Table of contents
+
+* [showcase](showcase.mdx)
 
 ## Getting Started
 
-* [Showcase](showcase.mdx)
+* [Showcase](getting-started/showcase.md)
 
 ## Customization
 
 * [How is it Customize?](how-is-it-customize/README.md)
-  * [Announces](how-is-it-customize/announces.mdx)
-  * [Custom Page](how-is-it-customize/custom-page.mdx)
-  * [Player Details](how-is-it-customize/player-details.mdx)
-  * [Social Online Time](how-is-it-customize/social-online-time.mdx) 
+  * [Announces](customization/how-is-it-customize/announces.md)
+  * [Custom Page](customization/how-is-it-customize/custom-page.md)
+  * [Player Details](customization/how-is-it-customize/player-details.md)
+  * [Social Online Time](customization/how-is-it-customize/social-online-time.md)
+
+## Taintless
+
+* [Pause Menu](taintless/pause-menu/README.md)
+  * [Page 1](taintless/pause-menu/page-1.md)
