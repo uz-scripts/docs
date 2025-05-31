@@ -1,5 +1,0 @@
-root: ./pause-menu/
-
-structure:
-  readme: showcase.mdx
-  summary: SUMMARY.md 

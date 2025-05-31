@@ -1,8 +1,0 @@
-root: ./
-
-structure:
-  readme: showcase.mdx
-  summary: SUMMARY.md
-
-redirects:
-  customize: how-is-it-customize/README.md 
