@@ -4,6 +4,7 @@
 
 ## Taintless
 
+* [❓・What is Taintless](taintless/what-is-taintless.md)
 * [Pause Menu](taintless/pause-menu/README.md)
   * [Announces](taintless/pause-menu/announces.md)
   * [Custom Pages](taintless/pause-menu/custom-pages.md)
