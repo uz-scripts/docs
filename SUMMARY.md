@@ -11,4 +11,5 @@
   * [Social Online Time](taintless/pause-menu/social-online-time.md)
 * [Multicharacter](taintless/multicharacter/README.md)
   * [Installation Guide](taintless/multicharacter/installation-guide.md)
+  * [Customize Configuration File](taintless/multicharacter/customize-configuration-file.md)
 * [Vehicle Shop](taintless/vehicle-shop.md)
