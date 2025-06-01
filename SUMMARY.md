@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to UZ Scripts](README.md)
+* [🛠️ Tebex Integration](tebex-integration.md)
 
 ## Taintless
 
