@@ -4,16 +4,6 @@
 **Overview**: This guide will walk you through the complete process of integrating Tebex with your game server, enabling automated product delivery and payment processing.
 {% endhint %}
 
-### Table of Contents
-
-* Prerequisites
-* Step 1: Connect Game Server
-* Step 2: Configure Server
-* Step 3: Create a Package
-* Step 4: Configure Script Commands
-* Step 5: Testing and Activation
-* Troubleshooting
-* Best Practices
 
 ### Prerequisites
 
