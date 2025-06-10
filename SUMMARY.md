@@ -15,3 +15,4 @@
   * [Installation Guide](taintless/multicharacter/installation-guide.md)
   * [Customize Configuration File](taintless/multicharacter/customize-configuration-file.md)
 * [Vehicle Shop](taintless/vehicle-shop.md)
+* [Spawn Selector](taintless/spawn-selector.md)
